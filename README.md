@@ -8,3 +8,6 @@
 6) Execute command "node index.js ID.OF.RECEIVER STICKERHASH"
 
 7) Await the receipt of the transaction, and head to https://stickerchain.appspot.com/ and see the transaction table being updated with your blockchain transaction powered by Hedera.
+
+
+Note: For more details about this project check https://devpost.com/software/stickerchain
